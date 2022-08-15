@@ -56,5 +56,8 @@
 <a href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=Cj0KCQjwuuKXBhCRARIsAC-gM0gUFPLpEVn-LG5WhDG2H-ScW8FxWegJ9qJMxpz7czUA3x05x_5gmuUaArlUEALw_wcB:G:s&s_kwcid=AL!3085!3!473191824186!e!!g!!premiere%20pro!221167988!56957614541&gclid=Cj0KCQjwuuKXBhCRARIsAC-gM0gUFPLpEVn-LG5WhDG2H-ScW8FxWegJ9qJMxpz7czUA3x05x_5gmuUaArlUEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Pr"/></a>
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanjogalekar&" alt="ishanjogalekar" /></p>
+<p align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanjogalekar&" alt="ishanjogalekar" /></p>&nbsp;<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanjogalekar&show_icons=true&locale=en" alt="ishanjogalekar" /></p>
+</p>
