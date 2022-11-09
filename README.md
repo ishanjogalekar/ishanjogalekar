@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jogalekarishan@gmail.com**
 
-- 📄 Check my resume [https://drive.google.com/file/d/1DEp6jgylljITDpGKU7o_EHnoYU1aUjha/view](https://drive.google.com/file/d/1DEp6jgylljITDpGKU7o_EHnoYU1aUjha/view)
+- 📄 Check my resume [https://1drv.ms/b/s!AgQTG3v3-KKEnAxvvqEpsqRS6GGy?e=GFKII2](https://1drv.ms/b/s!AgQTG3v3-KKEnAxvvqEpsqRS6GGy?e=GFKII2)
 
 - ⚡ Fun fact **Everything is hackable**
 
