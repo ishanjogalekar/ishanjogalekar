@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanjogalekar&label=Profile%20views&color=0e75b6&style=flat" alt="ishanjogalekar" /> </p>
 
-- 🌱 I’m currently learning **BurpSuite, Kotlin and Vaadin**
+- 🌱 I’m currently working with **Spring-Boot, Burpsuite**
 
 - 👨‍💻 Know about me [https://ishanjogalekar-portfolio.netlify.app/](https://ishanjogalekar-portfolio.netlify.app/)
 
