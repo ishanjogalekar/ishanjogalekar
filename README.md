@@ -94,5 +94,10 @@
 
 ---
 
+### 🌍 Findy-Global Skill stats:
+<img alt="findystats" src="https://github.com/ishanjogalekar/ishanjogalekar/blob/main/img/skill_deviation.jpg" width="250"/> <br/>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ishanjogalekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
