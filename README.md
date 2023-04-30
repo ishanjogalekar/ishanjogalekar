@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanjogalekar&label=Profile%20views&color=0e75b6&style=flat" alt="ishanjogalekar" /> </p>
 
-- 🌱 I’m currently working with **Spring-Boot, Burpsuite**
+- 🌱 I’m currently working on **Spring-Boot, Cyber-Security**
 
-- 👨‍💻 Know about me [https://ishanjogalekar-portfolio.netlify.app/](https://ishanjogalekar-portfolio.netlify.app/)
+- 👨‍💻 Know about me: [Portfolio-Website](https://ishanjogalekar-portfolio.netlify.app/)
 
 - 📫 How to reach me **jogalekarishan@gmail.com**
 
-- 📄 Check my resume [https://1drv.ms/b/s!AgQTG3v3-KKEnAxvvqEpsqRS6GGy?e=GFKII2](https://1drv.ms/b/s!AgQTG3v3-KKEnAxvvqEpsqRS6GGy?e=GFKII2)
+- 📄 Check my resume [Resume-Link](https://1drv.ms/b/s!AgQTG3v3-KKEnAxvvqEpsqRS6GGy?e=GFKII2)
 
 - ⚡ Fun fact **Everything is hackable**
 
