@@ -92,12 +92,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ishanjogalekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishanjogalekar&theme=dark&hide_border=false)<br/>
 
----
-
-### 🌍 Findy-Global Skill stats:
-<img alt="findystats" src="https://github.com/ishanjogalekar/ishanjogalekar/blob/main/img/skill_deviation.jpg" width="250"/> <br/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ishanjogalekar&icon=0&color=0)](https://visitcount.itsvg.in)
-
